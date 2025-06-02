@@ -1,1 +1,1 @@
-#Fun Projects / Implementations of Mathematical Concepts in Python
+## Fun Projects / Implementations of Mathematical Concepts in Python
