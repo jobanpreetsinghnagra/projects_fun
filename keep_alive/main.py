@@ -162,7 +162,10 @@ def main():
         "https://mushroom-classification-sk.streamlit.app",
         "https://kmeans-comp.streamlit.app",
         "https://pomodoroui.streamlit.app",
+        "https://huggingface.co/spaces/jobannagra/simple-bg-remove",
+        "https://huggingface.co/spaces/jobannagra/diet_plan",
         "https://huggingface.co/spaces/jobannagra/simple-bg-remove"
+        
     ]
     PING_INTERVAL = 5
 
